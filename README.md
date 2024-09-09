@@ -1,4 +1,4 @@
-[![MasterHead](https://www.shutterstock.com/image-vector/vector-collection-web-development-shield-600nw-2061835454.jpg)
+![MasterHead](https://www.shutterstock.com/image-vector/vector-collection-web-development-shield-600nw-2061835454.jpg)
 <h1 align="center">Hi 👋, I'm Firdovsi Gakhramanov</h1>
 <h3 align="center">I'm frontend developer</h3>
 
